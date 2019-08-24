@@ -1,0 +1,3 @@
+begin
+ a:=b+++ 12 while 4124 * abc;
+ while a
